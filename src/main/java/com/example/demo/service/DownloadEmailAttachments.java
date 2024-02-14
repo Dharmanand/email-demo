@@ -99,7 +99,7 @@ public class DownloadEmailAttachments {
         String userName = "kumarxxxxxxx@gmail.com";
         String password = "xxxxxxxxxxxxx";
 
-        String saveDirectory = "C:\\Users\\dharm\\Desktop\\downloadAttachments\\";
+        String saveDirectory = "C:\\downloadAttachments\\";
 
         DownloadEmailAttachments receiver = new DownloadEmailAttachments();
         receiver.setSaveDirectory(saveDirectory);
